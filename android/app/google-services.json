@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "93821403736",
+    "firebase_url": "https://crud-pmo-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crud-pmo",
+    "storage_bucket": "crud-pmo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93821403736:android:d6d38f6229e4d5a6f6002d",
+        "android_client_info": {
+          "package_name": "com.lukita.testsdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93821403736-d6f5gjc9ltcqqdb4ql7c6cpursaju3vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQDCUTCdJK3zi-ATiEicOOtwCfQJy4kwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93821403736-d6f5gjc9ltcqqdb4ql7c6cpursaju3vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
